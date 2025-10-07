@@ -54,7 +54,7 @@ GTP直连USB设计。可以自行开发，也可以参考Xillybus的实现，**�
 
 Windows10,5600x,64G Memory,使用主板上TYPE-C口，单独读测速：
 
-![屏幕截图 2025-10-05 011047](./readme_att/屏幕截图 2025-10-05 011047.png)
+![屏幕截图 2025-10-05 011047](./readme_att/win10usbtest.png)
 
 使用TYPE-A口测试速度则低一些，我的环境下是419MB/s.
 
