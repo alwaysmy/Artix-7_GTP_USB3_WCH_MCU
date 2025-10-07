@@ -1,12 +1,14 @@
 # 硬件
 
+![boardpic](./readme_att/boardpic.jpg)
+
 ## FPGA
 
 基于Xilinx XC7A35TCSG325-2
 
 四层板设计
 
-提供20+30对差分对，共100个引出引脚，板上包含2.5V电压，可用于LVDS外设。
+提供20+30对差分对，共100个引出引脚，使用两个80pin 0.8mm BTB连接器，板上包含2.5V电压，可用于LVDS外设。
 
 SPI FLASH自加载模式启动或从串加载启动。
 
